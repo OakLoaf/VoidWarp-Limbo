@@ -1,0 +1,4 @@
+name: VoidWarp-Limbo
+version: '${project.version}'
+main: org.lushplugins.voidwarplimbo.VoidWarpLimbo
+api-version: 1.19
